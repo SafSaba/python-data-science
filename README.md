@@ -12,22 +12,23 @@ Explore Machine Learning: Apply data science libraries to solve real-world probl
 
 Track Progress: Visibly track my development and create a log of my journey for myself and others to see.
 
-📂 Repository Structure
-This repository is organized into several key directories:
+### 📂 Repository Structure
 
+```
 .
 ├── .gitignore
 ├── README.md
 ├── numpy_examples/
-│ ├── 01_array_basics.py
-│ ├── 02_indexing_and_slicing.py
-│ └── 03_math_and_stats.py
+│   ├── 01_array_basics.py
+│   ├── 02_indexing_and_slicing.py
+│   └── 03_math_and_stats.py
 ├── pandas_examples/
-│ ├── 01_series_and_dataframes.py
-│ ├── 02_data_loading_and_cleaning.py
-│ └── 03_data_aggregation.py
+│   ├── 01_series_and_dataframes.py
+│   ├── 02_data_loading_and_cleaning.py
+│   └── 03_data_aggregation.py
 └── ml_projects/
-└── 01_simple_linear_regression.py
+    └── 01_simple_linear_regression.py
+```
 
 numpy_examples/: Contains scripts focused on core NumPy functionalities.
 
@@ -38,15 +39,7 @@ ml_projects/: A place for more comprehensive projects where NumPy and Pandas are
 🗺️ Learning Roadmap
 This is the path I am following. Each new concept and project will be added to the repository as it's completed.
 
-✅ Month 1: Python & Git Foundations
-
-Setting up the development environment.
-
-Mastering Git for version control.
-
-Reviewing Python fundamentals (data structures, functions, classes).
-
-➡️ Month 2: NumPy Deep Dive
+➡️ NumPy Deep Dive
 
 Understanding the ndarray object.
 
@@ -56,7 +49,7 @@ Indexing, slicing, and boolean operations.
 
 Mathematical and statistical functions.
 
-➡️ Month 3: Pandas Mastery
+➡️ Pandas Mastery
 
 Working with Series and DataFrame objects.
 
@@ -68,7 +61,7 @@ Data wrangling: grouping (groupby), merging, and reshaping data.
 
 Time series analysis.
 
-➡️ Month 4: Introductory Machine Learning
+➡️  Introductory Machine Learning
 
 Using scikit-learn with NumPy and Pandas.
 
